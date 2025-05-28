@@ -267,6 +267,9 @@ color: #f26d52;
      .one-point{
       font-family: 'Times New Roman' ;
      }
+     .two-point{
+      font-family: 'Times New Roman';
+     }
      .three-point{
         width: 417.78px;
         height: 0px;
@@ -275,10 +278,8 @@ color: #f26d52;
      }
      .two-point{
       margin-top: 7px;
-      width: 410px;
+      width: 400px;
       height: 20px;
-      /* border: 2px solid rgb(244, 252, 7); */
-      font-family: 'Times New Roman' ;
      }
      .point-three{
       margin-top: 7px;
@@ -291,9 +292,6 @@ color: #f26d52;
       display: flex;
       justify-content: center;
      margin-top: 25px;
-    
-     
-     
      }
      .btn button{
       font-family: Arial;
