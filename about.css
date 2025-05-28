@@ -263,18 +263,22 @@ color: #f26d52;
         font: 16px sans-serif;
         margin-top: 35px;
         font-family: 'Times New Roman' ;
-      
+     }
+     .one-point{
+      font-family: 'Times New Roman' ;
      }
      .three-point{
         width: 417.78px;
         height: 0px;
+        font-family: 'Times New Roman' ;
      
      }
      .two-point{
       margin-top: 7px;
-      width: 390px;
+      width: 410px;
       height: 20px;
-      border: 2px solid rgb(244, 252, 7);
+      /* border: 2px solid rgb(244, 252, 7); */
+      font-family: 'Times New Roman' ;
      }
      .point-three{
       margin-top: 7px;
