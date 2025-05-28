@@ -273,6 +273,8 @@ color: #f26d52;
      .two-point{
       margin-top: 7px;
       width: 200px;
+      height: 20px;
+      border: 2px solid red;
      }
      .point-three{
       margin-top: 7px;
